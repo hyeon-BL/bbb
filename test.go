@@ -1,3 +1,3 @@
 // ddd
-hello there.
-we should practice the programing for our goal.
+// hello there.
+print("we should practice the programing for our goal.")
